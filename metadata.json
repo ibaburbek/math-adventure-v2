@@ -1,0 +1,6 @@
+{
+  "name": "Math Adventure - 2D Mathematics Game",
+  "description": "A responsive educational mathematics adventure game for students aged 8-15 with fantasy worlds, 3D animated characters, KaTeX formulas, teacher dashboard, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
